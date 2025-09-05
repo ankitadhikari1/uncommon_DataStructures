@@ -28,28 +28,7 @@ Example:
 └── Makefile           # (Optional) For building the project
 ```
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/bloom-filter.git
-cd bloom-filter
-```
-
-### 2. Compile the Code
-
-```bash
-g++ bloom_filter.cpp -o bloom_filter
-```
-
-### 3. Run the Program
-
-```bash
-./bloom_filter
-```
 
 ---
 
